@@ -1,0 +1,35 @@
+CONTEÚDOS PROGRAMÁTICOS
+LÍNGUA PORTUGUESA
+1 Compreensão de textos. 2 A organização textual dos vários modos de organização discursiva. 2 Coerência e coesão. 3 Ortografia. 4 Classe, estrutura, formação e significação de vocábulos. 5 Derivação e composição. 6 A oração e seus termos. 7 A estruturação do período. 8 As classes de palavras: aspectos morfológicos, sintáticos e estilísticos. 9 Linguagem figurada. 10 Pontuação.
+NOÇÕES DE DIREITO
+I – DIREITO E GARANTIAS FUNDAMENTAIS: Direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade, à segurança e à propriedade; direitos sociais; nacionalidade; cidadania; garantias constitucionais individuais; garantias dos direitos coletivos, sociais e políticos.
+II – A ORGANIZAÇÃO DO ESTADO: Administração pública (artigos de 37 a 41, da Constituição Federal de 1988).
+III - DIREITO ADMINISTRATIVO: 1 Direito administrativo: conceito, fontes e princípios. 2 Organização administrativa da União; administração direta e indireta. 3 Agentes públicos: poderes, deveres e prerrogativas; cargo, emprego e função públicos; Regime Jurídico Único (Lei nº 8.112/1990 e suas alterações): provimento, vacância, remoção, redistribuição e substituição; direitos e vantagens; regime disciplinar; responsabilidade civil, criminal e administrativa. 4 Poderes administrativos: poder hierárquico; poder disciplinar; poder regulamentar; poder de polícia; uso e abuso do poder. 5 Ato administrativo: validade, eficácia; atributos; extinção, desfazimento e sanatória; classificação, espécies e exteriorização; vinculação e discricionariedade. 6 Serviços Públicos: conceito, classificação, regulamentação e controle; delegação: concessão, permissão, autorização. 7 Controle e responsabilização da administração: controle administrativo; controle judicial; controle legislativo; responsabilidade civil do Estado. Sanções aplicáveis aos atos de improbidade administrativa (Lei nº 8.429/1992 e suas alterações). 8 Lei do Processo Administrativo (Lei no 9.784/1999 e suas alterações).
+MATEMÁTICA
+1 Conjuntos numéricos: naturais, inteiros, racionais e reais; múltiplos, divisores, números primos; potências e raízes. 2 Sistemas de Unidades de Medidas: comprimento, área, volume, massa e tempo. 3 Razão e proporção: regra de três simples e regra de três composta; porcentagem, juros simples e juros compostos. 4 Equação do 1º grau, equação do 2º grau, sistemas de equações; equações exponenciais e logarítmicas. 5 Funções: afins, quadráticas, exponenciais, logarítmicas. 6 Progressões aritméticas e geométricas. 7 Análise combinatória: princípio fundamental da contagem, permutação, arranjo e combinação. 8 41 Probabilidade. 9 Estatística básica: leitura e interpretação de dados representados em tabelas e gráficos; medidas de tendência central (média, mediana, moda); 10 Geometria plana: polígonos, circunferência, círculo, teorema de Pitágoras, trigonometria no triângulo retângulo; perímetros e áreas. 11 Geometria espacial: prisma, pirâmide, cilindro, cone e esfera; áreas e volumes.
+REALIDADE BRASILEIRA
+1 Formação do Brasil contemporâneo: 1.1 Da independência à República. 1.2 Primeira República: elite agrária e a política da economia cafeeira. 1.3 O Estado Getulista. 1.4 Democracia e rupturas democráticas na segunda metade do século XX; 1.5 A redemocratização e a busca pela estabilidade econômica. 2 História dos negros no Brasil: luta antirracista, conquistas legais e desafios atuais. 3 História dos povos indígenas do Brasil: luta por direitos e desafios atuais. 4 Dinâmica social no Brasil: estratificação, desigualdade e exclusão social. 5 Manifestações culturais, movimentos sociais e garantia de diretos das minorias. 6 Desenvolvimento econômico, concentração da renda e riqueza. 7 Desenvolvimento sustentável e meio ambiente. 8 Biomas brasileiros: uso racional, conservação e recuperação. 9 Matriz energética: fontes renováveis e não renováveis; mudança climática; transição energética. 10 População: estrutura, composição e dinâmica. 11 Desenvolvimento urbano brasileiro: redes urbanas; metropolização; crescimento das cidades e problemas urbanos. 12 Infraestrutura urbana e segregação socioespacial. 13 Desenvolvimento rural brasileiro: estrutura e concentração fundiária; sistemas produtivos e relação de trabalho no campo. 14 A inserção do Brasil no sistema internacional. 15 Estado Democrático de Direito: a Constituição de 1988 e a afirmação da cidadania.
+
+
+Área Temática
+	Tópicos Sugeridos para 2025
+	Tecnologias de Telecomunicações Avançadas
+	5G (características, aplicações, impactos), IoT (conceitos, aplicações, desafios), redes de fibra ótica, redes híbridas.
+	Segurança Cibernética
+	Criptografia, autenticação multifator (MFA), segurança da IoT, monitoramento em tempo real.
+	Análise de Dados e Inteligência Artificial
+	Ferramentas de Big Data, IA para gestão de redes, previsão de falhas, atendimento ao cliente.
+	Planejamento e Manutenção de Infraestruturas
+	Planejamento de redes (5G, fibra), manutenção preventiva, gestão de projetos (PMBOK atualizado).
+	Telefonia na Nuvem e VoIP
+	Conceitos, vantagens, integração omnichannel, regulamentações específicas.
+	Interoperabilidade e Integração de Big Data
+	Conceitos de interoperabilidade, uso de Big Data para análises estratégicas.
+	Telecomunicações Sustentáveis
+	Energia renovável, reciclagem eletrônica, infraestrutura de baixo impacto ambiental.
+	Colaboração e Videoconferência Avançada
+	AR/VR, IA para transcrições e traduções, videoconferência 3D, impactos regulatórios.
+	Regulamentações e Diretrizes da Anatel
+	Atualizações desde 2014, normas para 5G, IoT, cibersegurança, sustentabilidade.
+	Tendências Futuras e Desafios
+	Perspectivas até 2030 (ex.: 6G), desafios regulatórios (compartilhamento de postes, furtos).

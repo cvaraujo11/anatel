@@ -1,0 +1,57 @@
+# ANATEL 2025 Study Materials Rules
+
+Este projeto gera materiais de estudo para a preparação do exame ANATEL 2025, adaptados para candidatos com TDAH (tipo inattentivo). As regras estão organizadas em arquivos `.mdc` modulares no diretório `.cursor/rules`, permitindo melhor organização e manutenção.
+
+## Regras Disponíveis
+- `summaries.mdc`: Instruções para gerar resumos de tópicos.
+- `flashcards.mdc`: Instruções para criar flashcards digitais.
+- `mind_maps.mdc`: Instruções para desenvolver mapas mentais.
+- `infographics.mdc`: Instruções para produzir infográficos.
+- `checklists.mdc`: Instruções para criar listas de verificação de estudo.
+- `simulated_exams.mdc`: Instruções para gerar exames simulados.
+- `study_guide.mdc`: Instruções para criar um guia de estudo personalizado.
+
+Cada arquivo `.mdc` contém instruções detalhadas, exemplos, diretrizes de acessibilidade e critérios de testabilidade. Coloque os arquivos no diretório `.cursor/rules` e referencie-os conforme necessário no projeto Cursor AI.
+
+---
+
+# Arquivo Modular: study_guide.mdc
+
+## Propósito
+Criar um guia de estudo personalizado baseado no desempenho em exames simulados, com estratégias para TDAH.
+
+## Instruções
+- **Analise Desempenho**: Identifique forças e fraquezas com base em exames simulados.
+- **Estratégias de Estudo**:
+  - Técnica Pomodoro: Estude por 25min, descanse 5min.
+  - Repetição Espaçada: Revise após 1, 3, 7 dias.
+  - Recursos Visuais: Use mapas mentais e flashcards.
+  - Ambiente Livre de Distrações: Estude em local silencioso.
+  - Atividade Física: Faça pausas ativas.
+- **Cronograma Exemplo**:
+  - Equilibre disciplinas e inclua revisões e simulados.
+
+## Exemplo
+**Cronograma Semanal**
+- **Segunda**:
+  - 9:00-10:30: Língua Portuguesa (Compreensão de textos) - Resumo e flashcards.
+  - 10:45-12:15: Matemática (Conjuntos numéricos) - Resumo e exercícios.
+  - Tarde: Revisão e simulado curto.
+
+## Acessibilidade
+- Fonte: Arial ou Verdana, 12-14pt
+- Espaçamento: 1,5 linhas
+- Contraste: Texto preto em fundo branco
+- Use cabeçalhos e marcadores.
+
+## Testabilidade
+- O guia oferece estratégias práticas?
+- O cronograma é equilibrado e adaptado ao TDAH?
+- As recomendações são claras e fáceis de seguir?
+
+## O Que Evitar
+- Sobrecarregar o cronograma com tarefas excessivas.
+- Usar recomendações vagas ou inespecíficas.
+- Ignorar pausas ou revisões.
+
+---

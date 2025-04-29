@@ -1,0 +1,70 @@
+# ANATEL 2025 Study Materials Rules
+
+Este projeto gera materiais de estudo para a preparação do exame ANATEL 2025, adaptados para candidatos com TDAH (tipo inattentivo). As regras estão organizadas em arquivos `.mdc` modulares no diretório `.cursor/rules`, permitindo melhor organização e manutenção.
+
+## Regras Disponíveis
+- `summaries.mdc`: Instruções para gerar resumos de tópicos.
+- `flashcards.mdc`: Instruções para criar flashcards digitais.
+- `mind_maps.mdc`: Instruções para desenvolver mapas mentais.
+- `infographics.mdc`: Instruções para produzir infográficos.
+- `checklists.mdc`: Instruções para criar listas de verificação de estudo.
+- `simulated_exams.mdc`: Instruções para gerar exames simulados.
+- `study_guide.mdc`: Instruções para criar um guia de estudo personalizado.
+
+Cada arquivo `.mdc` contém instruções detalhadas, exemplos, diretrizes de acessibilidade e critérios de testabilidade. Coloque os arquivos no diretório `.cursor/rules` e referencie-os conforme necessário no projeto Cursor AI.
+
+---
+
+# Arquivo Modular: summaries.mdc
+
+## Propósito
+Gerar resumos concisos para cada tópico do conteúdo do exame ANATEL 2025, auxiliando no estudo e revisão.
+
+## Instruções
+- Crie resumos para os seguintes tópicos:
+  - **Língua Portuguesa**:
+    - Compreensão de textos
+    - Organização textual
+    - Coerência e coesão
+    - Ortografia
+  - **Noções de Direito**:
+    - Direitos e Garantias Fundamentais
+    - Organização do Estado
+  - **Matemática**:
+    - Conjuntos numéricos
+    - Sistemas de unidades de medidas
+  - **Realidade Brasileira**:
+    - Formação do Brasil contemporâneo
+    - História dos negros e povos indígenas
+  - **Área Temática 2025**:
+    - Tecnologias de telecomunicações avançadas
+    - Segurança cibernética
+- Cada resumo deve ter 1-2 páginas, usando marcadores ou parágrafos curtos.
+- Use linguagem clara e simples, evitando jargões.
+
+## Exemplo
+**Tópico**: Compreensão de textos
+**Resumo**:
+- Compreensão de textos envolve entender o significado global e detalhes específicos de um texto.
+- Técnicas incluem identificar a ideia principal, inferir significados e analisar a estrutura.
+- Pratique com textos variados, como artigos, relatórios e literatura.
+
+## Acessibilidade
+- Fonte: Arial ou Verdana, 12-14pt
+- Espaçamento: 1,5 linhas
+- Contraste: Texto preto em fundo branco
+- Use cabeçalhos e subtítulos para organização.
+
+## Testabilidade
+- O resumo cobre todos os pontos-chave do tópico?
+- A linguagem é clara e livre de jargões desnecessários?
+- O resumo está dentro do limite de 1-2 páginas?
+- A fonte, tamanho, espaçamento e contraste estão conforme especificado?
+- O resumo está organizado com cabeçalhos e subtítulos?
+
+## O Que Evitar
+- Incluir detalhes irrelevantes ou tangentes.
+- Usar frases complexas ou termos técnicos sem explicação.
+- Exceder o limite de páginas, o que pode sobrecarregar o leitor.
+
+---
