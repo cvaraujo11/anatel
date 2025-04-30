@@ -1,0 +1,142 @@
+# Checklist: Realidade Brasileira (ANATEL 2025)
+
+- [ ] 1 Formação do Brasil contemporâneo:
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 1.1 Da independência à República.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 1.2 Primeira República: elite agrária e a política da economia cafeeira.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 1.3 O Estado Getulista.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 1.4 Democracia e rupturas democráticas na segunda metade do século XX;
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 1.5 A redemocratização e a busca pela estabilidade econômica.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 2 História dos negros no Brasil: luta antirracista, conquistas legais e desafios atuais.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 3 História dos povos indígenas do Brasil: luta por direitos e desafios atuais.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 4 Dinâmica social no Brasil: estratificação, desigualdade e exclusão social.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 5 Manifestações culturais, movimentos sociais e garantia de diretos das minorias.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 6 Desenvolvimento econômico, concentração da renda e riqueza.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 7 Desenvolvimento sustentável e meio ambiente.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 8 Biomas brasileiros: uso racional, conservação e recuperação.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 9 Matriz energética: fontes renováveis e não renováveis; mudança climática; transição energética.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 10 População: estrutura, composição e dinâmica.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 11 Desenvolvimento urbano brasileiro: redes urbanas; metropolização; crescimento das cidades e problemas urbanos.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 12 Infraestrutura urbana e segregação socioespacial.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 13 Desenvolvimento rural brasileiro: estrutura e concentração fundiária; sistemas produtivos e relação de trabalho no campo.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 14 A inserção do Brasil no sistema internacional.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] 15 Estado Democrático de Direito: a Constituição de 1988 e a afirmação da cidadania.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo

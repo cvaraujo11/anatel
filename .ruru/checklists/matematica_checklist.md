@@ -1,76 +1,76 @@
-# Checklist: Língua Portuguesa (ANATEL 2025)
+# Checklist de Estudo - Matemática (ANATEL 2025)
 
-- [ ] 1 Compreensão de textos.
+- [ ] 1 Conjuntos numéricos: naturais, inteiros, racionais e reais; múltiplos, divisores, números primos; potências e raízes.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 2 A organização textual dos vários modos de organização discursiva.
+- [ ] 2 Sistemas de Unidades de Medidas: comprimento, área, volume, massa e tempo.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 2 Coerência e coesão.
+- [ ] 3 Razão e proporção: regra de três simples e regra de três composta; porcentagem, juros simples e juros compostos.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 3 Ortografia.
+- [ ] 4 Equação do 1º grau, equação do 2º grau, sistemas de equações; equações exponenciais e logarítmicas.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 4 Classe, estrutura, formação e significação de vocábulos.
+- [ ] 5 Funções: afins, quadráticas, exponenciais, logarítmicas.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 5 Derivação e composição.
+- [ ] 6 Progressões aritméticas e geométricas.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 6 A oração e seus termos.
+- [ ] 7 Análise combinatória: princípio fundamental da contagem, permutação, arranjo e combinação.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 7 A estruturação do período.
+- [ ] 8 Probabilidade.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 8 As classes de palavras: aspectos morfológicos, sintáticos e estilísticos.
+- [ ] 9 Estatística básica: leitura e interpretação de dados representados em tabelas e gráficos; medidas de tendência central (média, mediana, moda);
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 9 Linguagem figurada.
+- [ ] 10 Geometria plana: polígonos, circunferência, círculo, teorema de Pitágoras, trigonometria no triângulo retângulo; perímetros e áreas.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado
     - [ ] Mapa Mental
     - [ ] Infográfico (Outline)
     - [ ] Guia de Estudo
-- [ ] 10 Pontuação.
+- [ ] 11 Geometria espacial: prisma, pirâmide, cilindro, cone e esfera; áreas e volumes.
     - [ ] Resumo
     - [ ] Flashcards
     - [ ] Simulado

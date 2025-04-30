@@ -1,0 +1,72 @@
+# Checklist: Área Temática (ANATEL 2025)
+
+- [ ] **Tecnologias de Telecomunicações Avançadas:** 5G (características, aplicações, impactos), IoT (conceitos, aplicações, desafios), redes de fibra ótica, redes híbridas.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] **Segurança Cibernética:** Criptografia, autenticação multifator (MFA), segurança da IoT, monitoramento em tempo real.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] **Análise de Dados e Inteligência Artificial:** Ferramentas de Big Data, IA para gestão de redes, previsão de falhas, atendimento ao cliente.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] **Planejamento e Manutenção de Infraestruturas:** Planejamento de redes (5G, fibra), manutenção preventiva, gestão de projetos (PMBOK atualizado).
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] **Telefonia na Nuvem e VoIP:** Conceitos, vantagens, integração omnichannel, regulamentações específicas.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] **Interoperabilidade e Integração de Big Data:** Conceitos de interoperabilidade, uso de Big Data para análises estratégicas.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] **Telecomunicações Sustentáveis:** Energia renovável, reciclagem eletrônica, infraestrutura de baixo impacto ambiental.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] **Colaboração e Videoconferência Avançada:** AR/VR, IA para transcrições e traduções, videoconferência 3D, impactos regulatórios.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] **Regulamentações e Diretrizes da Anatel:** Atualizações desde 2014, normas para 5G, IoT, cibersegurança, sustentabilidade.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] **Tendências Futuras e Desafios:** Perspectivas até 2030 (ex.: 6G), desafios regulatórios (compartilhamento de postes, furtos).
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo

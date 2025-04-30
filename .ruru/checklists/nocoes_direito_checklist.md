@@ -1,0 +1,72 @@
+# Checklist: Noções de Direito (ANATEL 2025)
+
+- [ ] I – DIREITO E GARANTIAS FUNDAMENTAIS: Direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade, à segurança e à propriedade; direitos sociais; nacionalidade; cidadania; garantias constitucionais individuais; garantias dos direitos coletivos, sociais e políticos.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] II – A ORGANIZAÇÃO DO ESTADO: Administração pública (artigos de 37 a 41, da Constituição Federal de 1988).
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] III - DIREITO ADMINISTRATIVO: 1 Direito administrativo: conceito, fontes e princípios.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] III - DIREITO ADMINISTRATIVO: 2 Organização administrativa da União; administração direta e indireta.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] III - DIREITO ADMINISTRATIVO: 3 Agentes públicos: poderes, deveres e prerrogativas; cargo, emprego e função públicos; Regime Jurídico Único (Lei nº 8.112/1990 e suas alterações): provimento, vacância, remoção, redistribuição e substituição; direitos e vantagens; regime disciplinar; responsabilidade civil, criminal e administrativa.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] III - DIREITO ADMINISTRATIVO: 4 Poderes administrativos: poder hierárquico; poder disciplinar; poder regulamentar; poder de polícia; uso e abuso do poder.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] III - DIREITO ADMINISTRATIVO: 5 Ato administrativo: validade, eficácia; atributos; extinção, desfazimento e sanatória; classificação, espécies e exteriorização; vinculação e discricionariedade.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] III - DIREITO ADMINISTRATIVO: 6 Serviços Públicos: conceito, classificação, regulamentação e controle; delegação: concessão, permissão, autorização.
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] III - DIREITO ADMINISTRATIVO: 7 Controle e responsabilização da administração: controle administrativo; controle judicial; controle legislativo; responsabilidade civil do Estado. Sanções aplicáveis aos atos de improbidade administrativa (Lei nº 8.429/1992 e suas alterações).
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
+- [ ] III - DIREITO ADMINISTRATIVO: 8 Lei do Processo Administrativo (Lei no 9.784/1999 e suas alterações).
+    - [ ] Resumo
+    - [ ] Flashcards
+    - [ ] Simulado
+    - [ ] Mapa Mental
+    - [ ] Infográfico (Outline)
+    - [ ] Guia de Estudo
